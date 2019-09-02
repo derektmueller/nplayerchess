@@ -5,5 +5,5 @@ An n-player chess app based on Prototypes.js (github.com/parenparen/Prototypes.j
 
 ## Demo 
 
-http://derekmueller.info/nPlayerChess
+https://derekmueller.info/views/npc.html
 
